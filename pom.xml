@@ -12,7 +12,7 @@
     <artifactId>solar</artifactId>
     <version>0.0.1-SNAPSHOT</version>
     <name>solar</name>
-    <description>Demo project for Spring Boot</description>
+    <description>Elderly Home in solar city for Spring Boot</description>
     <properties>
         <java.version>1.8</java.version>
     </properties>
