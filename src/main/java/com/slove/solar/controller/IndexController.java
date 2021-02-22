@@ -7,6 +7,11 @@ import org.springframework.web.bind.annotation.RequestMapping;
 public class IndexController {
     @RequestMapping("/")
     public String hello() {
-        return "index";
+//        return "nurseAdd";
+//        return "index";
+//        return "userAdd";
+//        return "userList";
+//        return "nurseAdd_behind";
+        return "nurseList";
     }
 }
