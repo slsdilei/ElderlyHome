@@ -12,6 +12,9 @@ public class IndexController {
 //        return "userAdd";
 //        return "userList";
 //        return "nurseAdd_behind";
-        return "nurseList";
+//        return "nurseList";
+//        return "nurseAdd";
+//        return "serviceProject";
+        return "myself";
     }
 }
