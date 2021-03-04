@@ -15,6 +15,7 @@ public class IndexController {
 //        return "nurseList";
 //        return "nurseAdd";
 //        return "serviceProject";
-        return "myself";
+//        return "myself";
+        return "atHome";
     }
 }
